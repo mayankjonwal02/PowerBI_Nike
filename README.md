@@ -26,7 +26,7 @@ To use this project, follow these steps:
 ## Tech Stack
 
 - <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML: The webpage is built using HTML.
-- <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" alt="Power BI Logo" style="width:150px;height:160px;">**P**: Power BI: The Power BI report is embedded using an iframe.
+- <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" alt="Power BI Logo" style="width: 48px; height: 48px;">**P**: Power BI: The Power BI report is embedded using an iframe.
 
 ## Contributing
 
