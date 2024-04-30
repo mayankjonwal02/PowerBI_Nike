@@ -1,5 +1,4 @@
-
-# DV Project
+# PowerBI Nike
 
 ## Overview
 
@@ -12,7 +11,7 @@ To use this project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/mayankjonwal02/PowerBI_Nike.git
     ```
 
 2. Open the `index.html` file in a web browser.
@@ -26,7 +25,11 @@ To use this project, follow these steps:
 ## Tech Stack
 
 - <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML: The webpage is built using HTML.
-- <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" alt="Power BI Logo" style="width: 48px; height: 48px;">**P**: Power BI: The Power BI report is embedded using an iframe.
+- <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" alt="Power BI Logo" style="width: 48px; height: 48px;">: Power BI: The Power BI report is embedded using an iframe.
+
+## Deployed Link
+
+This project is deployed at: [https://mayankjonwal02.github.io/PowerBI_Nike/](https://mayankjonwal02.github.io/PowerBI_Nike/)
 
 ## Contributing
 
@@ -39,3 +42,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Push to the branch (`git push origin feature/<feature_name>`).
 6. Create a new Pull Request.
 
+
+
+Let me know if everything looks good to you or if you need any further adjustments!
