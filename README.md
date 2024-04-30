@@ -42,7 +42,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Push to the branch (`git push origin feature/<feature_name>`).
 6. Create a new Pull Request.
 
-## PDF Report
 
-[Uploading MINIPROJECT_DV_16.pdf…]()
+
+
+
 
